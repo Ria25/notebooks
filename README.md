@@ -1,6 +1,6 @@
-**PORTFOLIO**
+***PORTFOLIO***
 
-#Data science projects:
+**#Data science projects:**
 
 •	Computer vision : Image Classification with CNN (Tensorflow)
 •	NLP : Comments Classification as sarcastic or not
@@ -9,7 +9,7 @@
 
 
 
-#Data Analysis projects:
+**#Data Analysis projects:**
 
 •	US Accidents Analysis (Causes, Patterns...)
 •	Client Segmentation with K-means et PCA.
