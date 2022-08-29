@@ -2,7 +2,7 @@
 
 **#Data science projects:**
 
-•	Computer vision : Image Classification with CNN (Tensorflow)
+•	Computer vision : Image Classification (Horse vs human) with CNN (Tensorflow)
 
 •	NLP : Comments Classification as sarcastic or not
 
